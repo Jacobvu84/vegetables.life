@@ -13,3 +13,4 @@ Các loại cần tìm hiểu:
 - Bắp cải, Xu hào, 
 - Tía tô, lá lốt 
 - Rau càng cua
+- Mồng tơi
