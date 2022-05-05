@@ -15,3 +15,5 @@ Các loại cần tìm hiểu:
 - Tía tô, lá lốt 
 - Rau càng cua
 - Mồng tơi, Rau muống
+- Thanh Long, Súp Lơ, Cúc Tần Ô
+- Mướp, Bầu, Bí, Khế
